@@ -11,3 +11,8 @@ cmds where available in github itself
 git remote add origin https://github.com/Shanmuganathanjeevi/Git_Practices.git
 git branch -M main
 git push -u origin main
+git pull origin branch
+git clone
+git fork  --> another remote repository
+always pull before push
+gitignore to avoid commit
