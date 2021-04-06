@@ -4,3 +4,10 @@ git checkout 'branch_name' --> to switch to diff branch
 follow the same procedure as 
 git add 'filename'
 git commit filename -m 'msg'
+git remote add
+git push
+git remote --add origin
+cmds where available in github itself
+git remote add origin https://github.com/Shanmuganathanjeevi/Git_Practices.git
+git branch -M main
+git push -u origin main
