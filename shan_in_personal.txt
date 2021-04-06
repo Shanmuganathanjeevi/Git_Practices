@@ -1,3 +1,6 @@
 git branch --> to check the curr branch
 git branch 'branch_name' --> to create a new branch
 git checkout 'branch_name' --> to switch to diff branch
+follow the same procedure as 
+git add 'filename'
+git commit filename -m 'msg'
